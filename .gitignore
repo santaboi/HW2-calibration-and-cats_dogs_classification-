@@ -34,3 +34,43 @@ Sample Code/OpenCv_Hw2_Code/Q1/img1.jpg
 Sample Code/OpenCv_Hw2_A_20211220_V1B1.pptx
 Dataset_OpenCvDl_Hw2/Q4_Image/imR.png
 Dataset_OpenCvDl_Hw2/Q4_Image/imL.png
+Q5_data/
+.gitignore
+Q5/logs/cats_dogs_cnn_model 1640744111/train/events.out.tfevents.1640744647.LAPTOP-18R021VB.2584.0.v2
+Q5/logs/cats_dogs_cnn_model 1640744111/train/events.out.tfevents.1640744649.LAPTOP-18R021VB.profile-empty
+Q5/logs/cats_dogs_cnn_model 1640744111/train/events.out.tfevents.1640747655.LAPTOP-18R021VB.2584.2.v2
+Q5/logs/cats_dogs_cnn_model 1640744111/train/plugins/profile/2021_12_29_02_24_09/LAPTOP-18R021VB.input_pipeline.pb
+Q5/logs/cats_dogs_cnn_model 1640744111/train/plugins/profile/2021_12_29_02_24_09/LAPTOP-18R021VB.kernel_stats.pb
+Q5/logs/cats_dogs_cnn_model 1640744111/train/plugins/profile/2021_12_29_02_24_09/LAPTOP-18R021VB.memory_profile.json.gz
+Q5/logs/cats_dogs_cnn_model 1640744111/train/plugins/profile/2021_12_29_02_24_09/LAPTOP-18R021VB.overview_page.pb
+Q5/logs/cats_dogs_cnn_model 1640744111/train/plugins/profile/2021_12_29_02_24_09/LAPTOP-18R021VB.tensorflow_stats.pb
+Q5/logs/cats_dogs_cnn_model 1640744111/train/plugins/profile/2021_12_29_02_24_09/LAPTOP-18R021VB.trace.json.gz
+Q5/logs/cats_dogs_cnn_model 1640744111/train/plugins/profile/2021_12_29_02_24_09/LAPTOP-18R021VB.xplane.pb
+Q5/logs/cats_dogs_cnn_model 1640744111/train/plugins/profile/2021_12_29_03_14_16/LAPTOP-18R021VB.input_pipeline.pb
+Q5/logs/cats_dogs_cnn_model 1640744111/train/plugins/profile/2021_12_29_03_14_16/LAPTOP-18R021VB.kernel_stats.pb
+Q5/logs/cats_dogs_cnn_model 1640744111/train/plugins/profile/2021_12_29_03_14_16/LAPTOP-18R021VB.memory_profile.json.gz
+Q5/logs/cats_dogs_cnn_model 1640744111/train/plugins/profile/2021_12_29_03_14_16/LAPTOP-18R021VB.overview_page.pb
+Q5/logs/cats_dogs_cnn_model 1640744111/train/plugins/profile/2021_12_29_03_14_16/LAPTOP-18R021VB.tensorflow_stats.pb
+Q5/logs/cats_dogs_cnn_model 1640744111/train/plugins/profile/2021_12_29_03_14_16/LAPTOP-18R021VB.trace.json.gz
+Q5/logs/cats_dogs_cnn_model 1640744111/train/plugins/profile/2021_12_29_03_14_16/LAPTOP-18R021VB.xplane.pb
+Q5/model12-25.h5
+Q5/model12-12.h5
+Q5/model(3with_aug).h5
+Q5/model(3_without any aug).h5
+Q5/model.h5
+Q2/Q2_Image/15.bmp
+Q2/Q2_Image/14.bmp
+Q2/Q2_Image/13.bmp
+Q2/Q2_Image/12.bmp
+Q2/Q2_Image/11.bmp
+Q2/Q2_Image/10.bmp
+Q2/Q2_Image/9.bmp
+Q2/Q2_Image/8.bmp
+Q2/Q2_Image/7.bmp
+Q2/Q2_Image/6.bmp
+Q2/Q2_Image/5.bmp
+Q2/Q2_Image/4.bmp
+Q2/Q2_Image/3.bmp
+Q2/Q2_Image/2.bmp
+Q2/Q2_Image/1.bmp
+model12-25.h5
